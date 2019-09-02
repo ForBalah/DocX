@@ -95,6 +95,7 @@
     <Compile Include="Src\Charts\LineChart.cs" />
     <Compile Include="Src\Charts\PieChart.cs" />
     <Compile Include="Src\Charts\XElementHelpers.cs" />
+    <Compile Include="Src\FormField.cs" />
     <Compile Include="Src\Container.cs" />
     <Compile Include="Src\ExtensionsHeadings.cs" />
     <Compile Include="Src\Font.cs" />

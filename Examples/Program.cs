@@ -26,79 +26,79 @@ namespace Xceed.Words.NET.Examples
 
       Thread.CurrentThread.CurrentCulture = new System.Globalization.CultureInfo( "en-US" );
 
-      //Paragraphs      
-      ParagraphSample.SimpleFormattedParagraphs();
-      ParagraphSample.ForceParagraphOnSinglePage();
-      ParagraphSample.ForceMultiParagraphsOnSinglePage();
-      ParagraphSample.TextActions();
-      ParagraphSample.Heading();
+      ////Paragraphs      
+      //ParagraphSample.SimpleFormattedParagraphs();
+      //ParagraphSample.ForceParagraphOnSinglePage();
+      //ParagraphSample.ForceMultiParagraphsOnSinglePage();
+      //ParagraphSample.TextActions();
+      //ParagraphSample.Heading();
 
-      //Document
-      DocumentSample.AddCustomProperties();
-      DocumentSample.ReplaceText();
-      DocumentSample.ApplyTemplate();
-      DocumentSample.AppendDocument();
+      ////Document
+      //DocumentSample.AddCustomProperties();
+      //DocumentSample.ReplaceText();
+      //DocumentSample.ApplyTemplate();
+      //DocumentSample.AppendDocument();
 
-      //Images
-      ImageSample.AddPicture();
-      ImageSample.CopyPicture();
-      ImageSample.ModifyImage();
+      ////Images
+      //ImageSample.AddPicture();
+      //ImageSample.CopyPicture();
+      //ImageSample.ModifyImage();
 
-      //Indentation/Direction/Margins
-      MarginSample.SetDirection();
-      MarginSample.Indentation();
-      MarginSample.Margins();
+      ////Indentation/Direction/Margins
+      //MarginSample.SetDirection();
+      //MarginSample.Indentation();
+      //MarginSample.Margins();
 
-      //Header/Footers
-      HeaderFooterSample.HeadersFooters();     
+      ////Header/Footers
+      //HeaderFooterSample.HeadersFooters();     
 
-      //Tables
-      TableSample.InsertRowAndImageTable();
-      TableSample.TextDirectionTable();
-      TableSample.CreateRowsFromTemplate();
-      TableSample.ColumnsWidth();
-      TableSample.MergeCells();
+      ////Tables
+      //TableSample.InsertRowAndImageTable();
+      //TableSample.TextDirectionTable();
+      //TableSample.CreateRowsFromTemplate();
+      //TableSample.ColumnsWidth();
+      //TableSample.MergeCells();
 
-      //Hyperlink
-      HyperlinkSample.Hyperlinks();
+      ////Hyperlink
+      //HyperlinkSample.Hyperlinks();
 
-      //Section
-      SectionSample.InsertSections();
+      ////Section
+      //SectionSample.InsertSections();
 
-      //Lists
-      ListSample.AddList();
+      ////Lists
+      //ListSample.AddList();
 
-      //Equations
-      EquationSample.InsertEquation();
+      ////Equations
+      //EquationSample.InsertEquation();
 
       //Bookmarks
       BookmarkSample.InsertBookmarks();
       BookmarkSample.ReplaceText();
 
-      //Charts
-      ChartSample.BarChart();
-      ChartSample.LineChart();
-      ChartSample.PieChart();
-      ChartSample.Chart3D();
+      ////Charts
+      //ChartSample.BarChart();
+      //ChartSample.LineChart();
+      //ChartSample.PieChart();
+      //ChartSample.Chart3D();
 
-      //Tale of Content
-      TableOfContentSample.InsertTableOfContent();
-      TableOfContentSample.InsertTableOfContentWithReference();
+      ////Tale of Content
+      //TableOfContentSample.InsertTableOfContent();
+      //TableOfContentSample.InsertTableOfContentWithReference();
 
-      //Lines
-      LineSample.InsertHorizontalLine();
+      ////Lines
+      //LineSample.InsertHorizontalLine();
 
-      //Protection
-      ProtectionSample.AddPasswordProtection();
-      ProtectionSample.AddProtection();
+      ////Protection
+      //ProtectionSample.AddPasswordProtection();
+      //ProtectionSample.AddProtection();
 
-      //Parallel  
-      ParallelSample.DoParallelActions();
+      ////Parallel  
+      //ParallelSample.DoParallelActions();
 
-      //Others
-      MiscellaneousSample.CreateRecipe();
-      MiscellaneousSample.CompanyReport();
-      MiscellaneousSample.CreateInvoice();
+      ////Others
+      //MiscellaneousSample.CreateRecipe();
+      //MiscellaneousSample.CompanyReport();
+      //MiscellaneousSample.CreateInvoice();
 
 
       Console.WriteLine( "\nPress any key to exit." );

@@ -5,3 +5,10 @@ D:\Dev\DocumentLibraries\Release\1.3.0\OpenSource\Generated\Xceed.Words.NET\obj\
 D:\Dev\DocumentLibraries\Release\1.3.0\OpenSource\Generated\Xceed.Words.NET\obj\Debug\Xceed.Words.NET.csproj.CoreCompileInputs.cache
 D:\Dev\DocumentLibraries\Release\1.3.0\OpenSource\Generated\Xceed.Words.NET\obj\Debug\Xceed.Words.NET.dll
 D:\Dev\DocumentLibraries\Release\1.3.0\OpenSource\Generated\Xceed.Words.NET\obj\Debug\Xceed.Words.NET.pdb
+C:\Development\__Miscellaneous\DocX\Xceed.Words.NET\bin\Debug\Xceed.Words.NET.XML
+C:\Development\__Miscellaneous\DocX\Xceed.Words.NET\bin\Debug\Xceed.Words.NET.dll
+C:\Development\__Miscellaneous\DocX\Xceed.Words.NET\bin\Debug\Xceed.Words.NET.pdb
+C:\Development\__Miscellaneous\DocX\Xceed.Words.NET\obj\Debug\Xceed.Words.NET.csprojAssemblyReference.cache
+C:\Development\__Miscellaneous\DocX\Xceed.Words.NET\obj\Debug\Xceed.Words.NET.csproj.CoreCompileInputs.cache
+C:\Development\__Miscellaneous\DocX\Xceed.Words.NET\obj\Debug\Xceed.Words.NET.dll
+C:\Development\__Miscellaneous\DocX\Xceed.Words.NET\obj\Debug\Xceed.Words.NET.pdb
