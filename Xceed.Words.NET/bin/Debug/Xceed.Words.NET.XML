@@ -446,19 +446,19 @@
         </member>
         <member name="M:Xceed.Words.NET.HelperFunctions.CreateTableCell(System.Double)">
             <summary>
-            Create and return a cell of a table        
-            </summary>        
+            Create and return a cell of a table
+            </summary>
         </member>
         <member name="M:Xceed.Words.NET.HelperFunctions.IsSameFile(System.IO.Stream,System.IO.Stream)">
-            <!-- 
-            Bug found and fixed by trnilse. To see the change, 
+            <!--
+            Bug found and fixed by trnilse. To see the change,
             please compare this release to the previous release using TFS compare.
             -->
         </member>
         <member name="M:Xceed.Words.NET.HelperFunctions.AddDefaultNumberingXml(System.IO.Packaging.Package)">
-            <summary> 
+            <summary>
             Add the default numbering.xml if it is missing from this document
-            </summary> 
+            </summary>
         </member>
         <member name="T:Xceed.Words.NET.Hyperlink">
             <summary>
