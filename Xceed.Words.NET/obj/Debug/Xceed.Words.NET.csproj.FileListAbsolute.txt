@@ -4,3 +4,9 @@ C:\Development\Related\OLL\Sample-DocXCore\Xceed.Words.NET\bin\Debug\Xceed.Words
 C:\Development\Related\OLL\Sample-DocXCore\Xceed.Words.NET\obj\Debug\Xceed.Words.NET.dll
 C:\Development\Related\OLL\Sample-DocXCore\Xceed.Words.NET\obj\Debug\Xceed.Words.NET.pdb
 C:\Development\Related\OLL\Sample-DocXCore\Xceed.Words.NET\obj\Debug\Xceed.Words.NET.csprojAssemblyReference.cache
+C:\Development\__Miscellaneous\DocX\Xceed.Words.NET\bin\Debug\Xceed.Words.NET.XML
+C:\Development\__Miscellaneous\DocX\Xceed.Words.NET\bin\Debug\Xceed.Words.NET.dll
+C:\Development\__Miscellaneous\DocX\Xceed.Words.NET\bin\Debug\Xceed.Words.NET.pdb
+C:\Development\__Miscellaneous\DocX\Xceed.Words.NET\obj\Debug\Xceed.Words.NET.csprojAssemblyReference.cache
+C:\Development\__Miscellaneous\DocX\Xceed.Words.NET\obj\Debug\Xceed.Words.NET.dll
+C:\Development\__Miscellaneous\DocX\Xceed.Words.NET\obj\Debug\Xceed.Words.NET.pdb

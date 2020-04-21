@@ -4978,7 +4978,7 @@ namespace Xceed.Words.NET
                from e in p.Descendants()
                where e.Name.LocalName.Equals( localNameEquals )
                select e.Attribute( XName.Get( attributeName, "http://schemas.openxmlformats.org/officeDocument/2006/relationships" ) ).Value
-           ).SingleOrDefault()
+           ).FirstOrDefault()
            where id != null
            let img = new Image( this.Document, this.PackagePart.GetRelationship( id ) )
            select new Picture( this.Document, p, img )
